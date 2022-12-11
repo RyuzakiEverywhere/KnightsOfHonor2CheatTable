@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="42">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"Workers"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>2D6B6EF4C14</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"Gold"</Description>
+      <VariableType>Float</VariableType>
+      <Address>2D6046B11A4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"Books"</Description>
+      <VariableType>Float</VariableType>
+      <Address>2D6046B11B0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"Religion"</Description>
+      <VariableType>Float</VariableType>
+      <Address>2D6046B11B4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"Kingdom levies"</Description>
+      <VariableType>Float</VariableType>
+      <Address>2D6046B11C0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"City Stored Food"</Description>
+      <VariableType>Float</VariableType>
+      <Address>2D603E9A1FC</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
